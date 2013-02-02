@@ -3,7 +3,7 @@ UploadFile
 <h5>UploadFile.class.php 支持多文件上传的上传类</h5>
 <hr/>
 <b>
-vsersion:2.0 <br/>
+vsersion:1.0 <br/>
 author:silenceper<br/>
 email:silenceper#gmail.com(将#改为@)<br/>
 </b>
